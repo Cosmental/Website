@@ -1,0 +1,8 @@
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+@font-face {
+    font-family: "Monsterrat";
+    src: url("../Assets/Fonts/Monsterrat.ttf");
+};
