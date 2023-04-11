@@ -1,8 +1,24 @@
-p {
-    font-family: 'Montserrat', sans-serif;
+/* Core Elements */
+html, body {
+    text-align: center;
+    color: white;
+
+    font: 'Monsterrat'
 }
 
-@font-face {
-    font-family: "Monsterrat";
-    src: url("../Assets/Fonts/Monsterrat.ttf");
-};
+header {
+    background-image: url('Website/Assets/Images/Backgrounds/Gradient1.png');
+    background-color: rgb(239, 245, 244);
+    background-size: cover;
+    position: absolute;
+
+    top: 0%;
+    left: 0%;
+
+    height: 80%;
+    width: 100%;
+}
+
+/* Classes */
+
+/* Animations */
